@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons in Parliament for the speedy raising of fourteene thousand pounds, and furnishing of one or more magazine, or magazines of armes and ammunition and other necessarie charges : for and concerning the raising of horse an other military forces, within the hamblets of the tower, the city of Westminster, the burrough of Southwarke, and other parts of the counties of Middlesex and Surrey, within the forts and lines of comminicaion and parishes adjacent, mentioned in the weekely Bill of Mortallity.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69943</idno>
+            <idno type="STC">Wing E2056</idno>
+            <idno type="STC">ESTC R5736</idno>
+            <idno type="EEBO-CITATION">12141499</idno>
+            <idno type="OCLC">ocm 12141499</idno>
+            <idno type="VID">54842</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69943)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54842)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 240:E70, no 18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons in Parliament for the speedy raising of fourteene thousand pounds, and furnishing of one or more magazine, or magazines of armes and ammunition and other necessarie charges : for and concerning the raising of horse an other military forces, within the hamblets of the tower, the city of Westminster, the burrough of Southwarke, and other parts of the counties of Middlesex and Surrey, within the forts and lines of comminicaion and parishes adjacent, mentioned in the weekely Bill of Mortallity.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by L.N. for Edward Husbands ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>October 12, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54842:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 73 -->
+            <p>AN ORDINANCE OF THE LORDS <hi>and</hi> COMMONS IN PARLIAMENT.</p>
+            <p>For the ſpeedy raiſing of fourteene thouſand pounds, and furniſhing of one, or more Magazine, or Magazines of Armes and Ammunition, and other neceſ<g ref="char:EOLhyphen"/>ſarie charges.</p>
+            <p>For and concerning the raiſing of Horſe, and other Military Forces, within the Hamblets of the Tower, The City of Weſtminſter, the Burrough of Southwarke, and other parts of the Counties of Middleſex and Surrey, within the Forts and Lines of Commu<g ref="char:EOLhyphen"/>nication and Pariſhes adjacent, mentioned in the Weekely Bill of Mortallity.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered by the Commons in Parliament that this Ordinance be forthwith printed and published.</p>
+                        <closer>
+                           <signed>H. Elſynge. Cler Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON, Printed by <hi>L. N.</hi> for <hi>Edward Husbands,</hi> and are to be ſold at his ſhop in the Middle-Temple. <hi>October</hi> 12. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:54842:2"/>
+            <!-- PDF PAGE 74 -->
+            <pb n="1" facs="tcp:54842:2"/>
+            <!-- PDF PAGE 74 -->
+            <opener>
+               <dateline>
+                  <date>Die Lune Septemb. 4. 1643.</date>
+               </dateline>
+            </opener>
+            <head type="sub">And Ordinance of the Lords and Commons in Parliament, for the ſpeedy rai<g ref="char:EOLhyphen"/>ſing of Moneyes, and furniſhing of one, or more Ma<g ref="char:EOLhyphen"/>gazine, or Magazines of Armes and Ammunition, and other neceſſary charges, for and concerning the raiſing of Horſe, and other Military Forces within the Hamblets of the Tower, the City of Weſtminſter, the Burrough of South<g ref="char:EOLhyphen"/>warke, and other parts of the Counties of Middleſex and Surrey, within the Forts and Lines of Communication, and Pariſhes adjacent mentioned in the weekely Bill of Mor<g ref="char:EOLhyphen"/>talitie.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons in Parliament aſ<g ref="char:EOLhyphen"/>ſembled, finding that there is for the preſent an urgent neceſſity for the ſpeedy raiſing and levying a conſiderable ſumme of Money, for the providing of one or more Magazin or Ma<g ref="char:EOLhyphen"/>gazins of Armes and Ammunition, and for other neceſſary charges, for and concerning the raiſing and payment of Horſe and other Military forces with<g ref="char:EOLhyphen"/>in the Hamblets of the Tower of London, and Liberties thereof, the City of Weſtminſter, and Liberties thereof, the Borough of Southwarke and Liberties thereof, and all other parts and places of the Counties of Middleſex and Surrey within the Forts or Lines of Communication, and Pariſhes adjacent, mentioned in the weekely Bill of Mortality, the juſt defence of Religion, the Priviledges of Parliament, the Lawes and Liberties of the Sub<g ref="char:EOLhyphen"/>ject and ſafety of the City of London, and of the parts and places a foreſaid, and conſequently of the whole Kingdom, (cal<g ref="char:EOLhyphen"/>ling and requiring for their utmoſt aide herein.) Have hereby ordained and declared; and be it hereby ordained and declared by the ſaid Lords and Commons in Parliament aſſembled, and
+<pb n="2" facs="tcp:54842:3"/>
+               <!-- PDF PAGE 75 -->by the Authority of the ſame, that for the intents and purpoſes afore-mentioned the ſeverall and reſpective ſummes of money, hereafter in this Ordinance expreſſed, ſhall be reſpectively char<g ref="char:EOLhyphen"/>ged, rated, taxed, and levied upon the ſeverall Diviſions, Limits, and Places hereafter mentioned, according to the Proportions and diſtributions in this Ordinance expreſſed, That is to ſay, upon the ſaid Hamblets of the Tower of London and Liberties, the ſumme of foure thouſand pounds, upon the City of Weſt<g ref="char:EOLhyphen"/>minſter and Liberties thereof, and other the Liberties, Pariſhes, and Places adjacent in the County of Middleſex within the Forts and Lines of Communication, and other adjacent Pariſhes and Places within the ſaid County of Middleſex, and mentioned in the weekely Bill of Mortality, the ſumme of ſix thouſand pounds, upon the Borough of Southwark and Liberties thereof, and all Pariſhes and places adjacent within the Forts or Lines of Communication, within the County of Surrey, and other Pa<g ref="char:EOLhyphen"/>riſhes and places within the ſaid County of Surrey, mentioned in the ſaid weekly Bill of Mortality, the ſumme of foure thou<g ref="char:EOLhyphen"/>ſand pounds.</p>
+            <p>And be it further Ordained, That all and every perſon and perſons whatſoever, reſiding or inhabiting within any the places or diviſions afore-mentioned, for every eſtate Reall or Perſonall, that every ſuch perſon or perſons, or any other, hath to his or their uſe in truſt, or otherwiſe ſhall pay towards the ſaid ſums his and their proportionable part, and proportion of ſuch ſumme or ſummes of Money as by vertue of this Ordinance ſhall be ſo impoſed, charged, ſet or aſſeſſed, as aforeſaid, according to the true intent and meaning thereof. And that the reſpective Sub<g ref="char:EOLhyphen"/>committees of the reſpective places above mentioned, appoin<g ref="char:EOLhyphen"/>ted by the Committee of the <hi>Militia</hi> of London, according to the Ordinance of Parliament, dated the eighteenth of July laſt, ſhall have full power and authority within their ſeverall and re<g ref="char:EOLhyphen"/>ſpective limits and diviſions to direct their Warrants to ſuch number of perſons as they ſhall think fit, thereby nominating and appointing them to be Aſſeſſors within their reſpective limits and diviſions aforeſaid, which perſons ſo nominated and appoin<g ref="char:EOLhyphen"/>ted, ſhall hereby have full power and authority to aſſeſſe, tax, or rate, all and every ſuch perſon and perſons according to the true meaning of theſe preſents: And the ſaid reſpective Sub-commit<g ref="char:EOLhyphen"/>tees ſhall hereby have full power and authority within their re<g ref="char:EOLhyphen"/>ſpective
+<pb n="3" facs="tcp:54842:3"/>
+               <!-- PDF PAGE 75 -->limits and diviſions, to nominate and appoint Colle<g ref="char:EOLhyphen"/>ctors, to gather and receive the money ſo aſſeſſed, which Colle<g ref="char:EOLhyphen"/>ctors ſo nominated and appointed, ſhall and may collect and ga<g ref="char:EOLhyphen"/>ther the moneyes ſo aſſeſſed, as aforeſaid, and pay the ſame at the ſeverall places, where the ſaid ſeverall Sub-committees ſhall ap<g ref="char:EOLhyphen"/>point, to the reſpective Treaſurers hereafter mentioned, <hi>viz.</hi> The Collectors for the Hamblets of the Tower of London and Liber<g ref="char:EOLhyphen"/>ties thereof; to <hi>William Melliſh</hi> Eſquire, who is hereby nomina<g ref="char:EOLhyphen"/>ted and appointed to be Treaſurer for the ſame Hamblets and Li<g ref="char:EOLhyphen"/>berties: And the Collectors of the ſaid City of Weſtminſter, and other places above mentioned, to <hi>Iohn Honnor,</hi> Cent. who is here<g ref="char:EOLhyphen"/>by by nominated and appointed to be Treaſurer of the ſame diviſion. And the Collectors for the ſaid Borough of Southwarke and places above mentioned in the ſaid County of Surrey to <hi>Joſeph Collier</hi> Grocer, who is hereby nominated and appointed Trea<g ref="char:EOLhyphen"/>ſurer for the ſame Diviſion, which ſaid reſpective Treaſurers are hereby authorized to iſſue out the ſaid monies ſo gathered and received, according to ſuch Warrants or Directions as ſhall be given by the ſaid reſpective Sub-committees; provided al<g ref="char:EOLhyphen"/>wayes, That no monies be iſſued out by the ſaid Treaſurer for the Hamblets of the Tower of London, and Liberties thereof, but by order, made at the uſuall place and time of meeting of the ſaid Committee, by a full Committee conſiſting of ſeven perſons at the leaſt, whereof <hi>Foulke Wormelaiton,  <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap>  Loton, Ed<g ref="char:EOLhyphen"/>ward Lole,</hi>  
+               <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>  or any two of them, to be then and there perſo<g ref="char:EOLhyphen"/>nally preſent and ſubſcribing thereunto: And that no monies be iſſued out by the ſaid Treaſurer for the ſaid City of Weſtmin<g ref="char:EOLhyphen"/>ſter, and other places adjacent before mentioned, by order made at the uſuall place of meeting of the ſaid Committee, by a full Committee conſiſting of ſeven perſons at the leaſt, whereof M. <hi>William Ball,</hi> M. <hi>Joſias Barners,</hi> M. <hi>Lawrence Swetnam,</hi> M. <hi>Edward Carter,</hi> M. <hi>William Haberfield,</hi> M. <hi>William Hooper,</hi> and M. <hi>William Daſhwood,</hi> or any two of them to be then and there perſonally preſent and ſubſcribing thereunto. And that no monies be iſſued out by the ſaid Treaſurer for the ſaid Borough of Southwarke and places afore mentioned, but by order made at the uſuall place and time of meeting of the ſaid Committee, by a full Committee conſiſting of ſeven perſons at the leaſt,
+<pb n="4" facs="tcp:54842:4"/>
+               <!-- PDF PAGE 76 -->whereof M. <hi>Richard Wright,</hi> M. <hi>Cornelius Cooke,</hi> M. <hi>George Snelling,</hi> M. <hi>Edmund Auſtin,</hi> M. <hi>William Hickox,</hi> M. <hi>Richard Walker,</hi> M. <hi>Sammuel Lynne,</hi> and M. <hi>Robert Terry,</hi> or any two of them, to be then and there perſonally preſent and ſubſcribing thereunto.</p>
+            <p>And the ſaid Lords and Commons doe hereby further or<g ref="char:EOLhyphen"/>daine and declare, That every ſuch perſon or perſons ſo Rated and Aſſeſſed, by vertue hereof ſhall pay to the ſaid reſpective Collectors two parts in three parts to be divided of all and every ſuch ſumme or ſummes of money, ſo to be rated or aſſeſſed on him or them as aforeſaid within three dayes next after notice or demand made by the perſons to be appointed for the collecting and receiving thereof, and the other third part thereof within the ſpace of one moneth next after the publication hereof.</p>
+            <p>And whereas divers ſummes of money be paid weekly, and other ſummes of money for the making and erecting of Fortifi<g ref="char:EOLhyphen"/>cations, Poſts and Chaines, and Courts of Guards, within the reſpective Diviſions afore mentioned are collected and not ac<g ref="char:EOLhyphen"/>counted for, and other parts thereof remain arreate not yet colle<g ref="char:EOLhyphen"/>cted. The ſaid Lords and Commons doe hereby Ordaine and Declare. That all ſuch perſons who have collected any of the ſaid monies, ſhall immediately upon demand make their ac<g ref="char:EOLhyphen"/>counts and payments thereof to the Sub-Committees of that Diviſion wherein ſuch collection hath been made; which Sub<g ref="char:EOLhyphen"/>committee hath hereby power to appoint Collectors to gather the ſaid arreares, and the ſaid Committee to diſpoſe thereof to ſuch uſes and purpoſes as ſuch Aſſeſſements have beene made for: and if any perſon or perſons having received monies for the uſe above mentioned, and ſhall refuſe to accompt for and pay the ſame in manner before expreſſed: or if any perſon or perſons Aſſeſſed or to be Aſſeſſed for the raiſing of the ſeverall ſummes of money herein mentioned ſhall faile in the payment thereof, that then it ſhall and may be lawfull to and for the ſaid Collectors, and every of them reſpectively (calling to their aſſi<g ref="char:EOLhyphen"/>ſtance any of the Trayned Bands, Conſtables or others) to le<g ref="char:EOLhyphen"/>vie double the ſumme or ſummes ſo Aſſeſſed, or to be Aſſeſſed by way of diſtreſſe upon his or their goods and chattels, and ſhall and may ſell the ſame diſtreſſe or diſtreſſes for the ſervices afore<g ref="char:EOLhyphen"/>ſaid, and the overplus to be returned to the owner of the diſtreſſe taken. And in caſe no ſufficient diſtreſſes can be found within
+<pb n="5" facs="tcp:54842:4"/>
+               <!-- PDF PAGE 76 -->the reſpective Diviſions aforeſaid; then upon certificate to be made in that behalfe, by the reſpective Sub-committees of the ſaid Diviſions, unto the Committee of the Houſe of Commons, for examinations, ſitting at Weſtminſter: or to the Committee of the Militia of London, or any three of them; the ſaid Com<g ref="char:EOLhyphen"/>mittee for Examinations or Committee for the Militia, or any three of them, ſhall and may commit ſuch perſon or perſons to ſafe cuſtody, without baile or mainprize, whereſoever he or they ſhall be found; whether within the ſaid reſpective Diviſ<g ref="char:EOLhyphen"/>ions, or without. And the eſtate or eſtates of him or them, ſhall and may be ſequeſtred by the Committee of Sequeſtrations of ſuch City, County, or Place, where the ſame eſtate or eſtates ſhall be found, to be imployed within the reſpective Diviſions, where ſuch aſſeſſements on him or them as aforeſaid was made, for the ſervices and purpoſes afore-mentioned, untill the ſumme or ſummes ſo aſſeſſed ſhall be fully ſatisfied. And the ſaid Lords and Commons do hereby further ordaine and declare. That no perſon or perſons ſo aſſeſſed, or to be aſſeſſed as aforeſaid, ſhall remove his or their goods from any place or places within any the Diviſions aforeſaid, to any other place or places without the aforeſaid Forts, or lines of Communication; by colour of any licenſe or pretence whatſoever; unleſſe the ſame perſon or per<g ref="char:EOLhyphen"/>ſons doe produce and deliver unto the Officer or Officers of the ſeverall Courts of guard for the time being, atrue Schedule of the goods ſo to be removed; together with a Certificate in writing under the hands of the Sub-Committee of that Diviſion from whence the ſame goods ſhall be removed; mentioning that the owner of the ſaid goods hath fully ſatisfied and anſwered all impoſitions, rated, impoſed, or ſet upon him. And if any per<g ref="char:EOLhyphen"/>ſon or perſons ſhall endeavour to do the contrary, ſhall be eſtee<g ref="char:EOLhyphen"/>med as a party diſaffected to the Common-wealth; and forfeit the goods ſo to be removed. And it ſhall and may be law full to and for any perſon or perſons whatſoever, to ſeaze the ſame; and to certifie the ſame unto the ſaid reſpective Sub-Committees of the ſaid ſeverall Diviſions.</p>
+            <p>And be it by the ſaid Lords and Commons further ordained; That all Lands, Tenements, Hereditaments of all and every per<g ref="char:EOLhyphen"/>ſon and perſons whatſoever, of what degree or quality whatſo<g ref="char:EOLhyphen"/>ever; or in whoſe poſſeſſion the ſame are, within the Diviſions aforeſaid, ſhall be rated, charged, and chargeable for, and towards
+<pb n="4" facs="tcp:54842:5"/>
+               <!-- PDF PAGE 77 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:54842:5"/>
+               <!-- PDF PAGE 77 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:54842:6"/>
+               <!-- PDF PAGE 78 -->the raiſing and payment of the ſaid ſumme or ſummes of money ſet and charged by this Ordinance: Yet nevertheleſſe with this limitation and proviſion, that if the land be let or ſet, to, or neere the yeerly value thereof, in the poſſeſſion of any Tennant for life, lives, or years, or at will; ſuch perſon, or perſons, to whom the rent thereof belongeth, to be ſolely charged therewith. But if the ſame be let at any eaſie or ſmall rent, or under value, then the ſumme taxed, to be apportioned betweene the party or par<g ref="char:EOLhyphen"/>ties, to whom the rent belongeth, and the Tennant or Occupier of the lands, tenements, or hereditaments, as the Taxers of Aſ<g ref="char:EOLhyphen"/>ſeſſors ſhall thinke meet. And if any ſuch Tennant or Occupier of lands, tenements, or hereditaments, ſhall or may be cha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ged with any ſumme of money; that it ſhall and may be lawfull, to and for ſuch Tennants or Occupier, to detaine the ſame, from, or out of his rent, due or next payable for the ſame land. And for the better encouragement of the ſaid reſpective Collectors and Treaſurers, it is ordained, That three pence in the pound ſhall be allowed for every ſumme of money which ſhall be collected and paid to the ſaid Treaſurers according to this Ordinance; whereof two pence ſhall be to the Collectors, and one penny to the Treaſurer. And be it by the ſaid Lords and Commons fur<g ref="char:EOLhyphen"/>ther ordained, That if any Aſſeſſor or Collector ſhall refuſe the ſaid ſervice, or prove negligent or faulty therein; the ſaid Sub-Committee for the reſpective Diviſions or Limits, where ſuch Aſſeſſor or Collector ſhall refuſe, or be ſo negligent or faulty, ſhall have power to commit ſuch Aſſeſſors or Collectors to pri<g ref="char:EOLhyphen"/>ſon: or to ſet ſuch fine upon him or them as they ſhall think fit, not exceeding the ſumme of twenty pounds upon the Aſſeſſor, or five pounds upon the Collector; the ſame to belevied by di<g ref="char:EOLhyphen"/>ſtreſſe and ſale of ſuch offendors goods to the uſes herein mentio<g ref="char:EOLhyphen"/>ned, in ſuch ſort as is herein before appointed.</p>
+            <p>And be it laſtly, by the ſaid Lords and Commons further or<g ref="char:EOLhyphen"/>dained, that all and every the reſpective Committees, Aſſeſſors, and Collectors of the reſpective Diviſions aforeſaid, and all that ſhall aſſiſt them in the premiſes, ſhall be protected by both Hou<g ref="char:EOLhyphen"/>ſes of Parliament: Provided that this Ordinance, or any thing therein contained, ſhall not extend to the Peers or Members of either houſe, or the aſſiſtants of the Houſe of Peers, or neceſſary attendants of either Houſe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
